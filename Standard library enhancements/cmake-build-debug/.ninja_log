@@ -1,0 +1,7 @@
+# ninja log v5
+1	943	7369128841753790	build.ninja	9b4595b12eb57e43
+3081	3636	7369128708970875	_deps/fmt-build/libfmtd.a	5898c63ac52687e
+1	1839	7369128690976199	CMakeFiles/Standard_library_enhancements.dir/main.cpp.obj	1ff51a87abd51882
+38	2355	7369128696138818	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	4ef942cb8f086440
+36	3081	7369128703345916	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	9ec4f14d7df7d30c
+3636	4409	7369128716661217	Standard_library_enhancements.exe	cf9eda77500d49d0

@@ -1,0 +1,37 @@
+# ninja log v5
+0	45	7369128151458761	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	de808f0e41f14064
+45	4083	7369128191826675	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	3048a8f5966c9d6f
+0	45	7369128151458761	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	de808f0e41f14064
+221	261	7369128669662312	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	b305470fe2174e25
+45	4083	7369128191826675	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	3048a8f5966c9d6f
+0	220	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a0f5088839a8c40c
+221	261	7369128669662312	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	b305470fe2174e25
+0	220	0	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a0f5088839a8c40c
+389	428	7369128671337832	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	1cba50636df7bf58
+261	305	7369128670101140	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	5eb331d0843c5c34
+261	305	7369128670101140	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	5eb331d0843c5c34
+305	348	7369128670539966	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3aa400c2a0082032
+305	348	7369128670539966	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3aa400c2a0082032
+348	388	7369128670938897	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	2e5031759f5f2f52
+348	388	7369128670938897	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	2e5031759f5f2f52
+389	428	7369128671337832	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	1cba50636df7bf58
+428	484	7369128671896338	CMakeFiles/fmt-populate-complete	ea84850e763e183c
+428	484	7369128671896338	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	ea84850e763e183c
+428	484	7369128671896338	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	ea84850e763e183c
+428	484	7369128671896338	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	ea84850e763e183c
+0	220	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a0f5088839a8c40c
+0	220	0	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a0f5088839a8c40c
+220	262	7369128839147058	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	b305470fe2174e25
+220	262	7369128839147058	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	b305470fe2174e25
+262	303	7369128839566034	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	5eb331d0843c5c34
+262	303	7369128839566034	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	5eb331d0843c5c34
+303	345	7369128839975044	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3aa400c2a0082032
+303	345	7369128839975044	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3aa400c2a0082032
+345	386	7369128840393820	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	2e5031759f5f2f52
+345	386	7369128840393820	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	2e5031759f5f2f52
+386	428	7369128840808903	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	1cba50636df7bf58
+386	428	7369128840808903	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	1cba50636df7bf58
+428	485	7369128841367408	CMakeFiles/fmt-populate-complete	ea84850e763e183c
+428	485	7369128841367408	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	ea84850e763e183c
+428	485	7369128841367408	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	ea84850e763e183c
+428	485	7369128841367408	E:/C ++ interesting tasks/Standard library enhancements/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	ea84850e763e183c

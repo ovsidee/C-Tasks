@@ -1,0 +1,6 @@
+# ninja log v5
+0	2373	7369132535760227	CMakeFiles/Largest_groups_of_anagrams.dir/main.cpp.obj	8b09c26662f7dd6d
+40	2599	7369132538044115	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	795d35c6dfba3500
+38	3230	7369132544312172	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	9c962013db8d5a44
+3230	3755	7369132549629086	_deps/fmt-build/libfmtd.a	5898c63ac52687e
+3756	4614	7369132558176237	Largest_groups_of_anagrams.exe	71f1ff77b848b87e

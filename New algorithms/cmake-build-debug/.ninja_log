@@ -1,0 +1,6 @@
+# ninja log v5
+0	2369	7369125030218149	CMakeFiles/untitled.dir/main.cpp.obj	dceeffc8844dfc77
+36	2410	7369125030662815	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	382547b1c14132a4
+38	3162	7369125038128425	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	2f3928bf4c4f4ab6
+3162	3729	7369125043872063	_deps/fmt-build/libfmtd.a	5898c63ac52687e
+3729	4688	7369125053415557	untitled.exe	61a11293adf2c388
