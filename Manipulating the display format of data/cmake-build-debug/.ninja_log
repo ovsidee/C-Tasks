@@ -1,6 +1,0 @@
-# ninja log v5
-0	2048	7369116801661553	CMakeFiles/Manipulating_the_display_format_of_data.dir/main.cpp.obj	51e6afd738465a20
-38	2470	7369116805908641	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	94db15813417c026
-41	3266	7369116813798965	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	988c1829b0679fe3
-3266	3859	7369116819809632	_deps/fmt-build/libfmtd.a	5898c63ac52687e
-3860	4649	7369116827669497	Manipulating_the_display_format_of_data.exe	a45085317430928f

@@ -1,6 +1,0 @@
-# ninja log v5
-0	1684	7369113268330707	CMakeFiles/Reversing_words.dir/main.cpp.obj	9c948e524248b3a3
-40	2554	7369113277032561	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	e6faeef9de833a9f
-38	3272	7369113284152770	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	b29110e487432226
-3272	3853	7369113290036418	_deps/fmt-build/libfmtd.a	5898c63ac52687e
-3853	4643	7369113297887942	Reversing_words.exe	b6f13ca8eb6e3916

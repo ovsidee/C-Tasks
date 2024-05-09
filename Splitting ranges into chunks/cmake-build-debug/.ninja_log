@@ -1,8 +1,0 @@
-# ninja log v5
-43	2668	7369126782381568	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	6464ba25a585ab25
-45	3421	7369126789856911	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	46422a609142d465
-0	3536	7369126791003586	CMakeFiles/Splitting_ranges_into_chunks.dir/main.cpp.obj	381d3d5967df8bb1
-3422	3967	7369126795383175	_deps/fmt-build/libfmtd.a	5898c63ac52687e
-3967	5395	7369126809626304	Splitting_ranges_into_chunks.exe	762f43e9d9a3e21b
-5	5224	7369126952918086	CMakeFiles/Splitting_ranges_into_chunks.dir/main.cpp.obj	381d3d5967df8bb1
-5225	6653	7369126967229878	Splitting_ranges_into_chunks.exe	762f43e9d9a3e21b

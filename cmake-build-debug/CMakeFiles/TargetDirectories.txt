@@ -1,0 +1,15 @@
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/C_Tasks.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/larg.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/list_install_components.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/install.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/install/local.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/install/strip.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/list_install_components.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/install.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/local.dir
+E:/C++/C-Tasks/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/strip.dir
