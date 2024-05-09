@@ -108,6 +108,176 @@ build larg.exe: CXX_EXECUTABLE_LINKER__larg_Debug CMakeFiles/larg.dir/largestGro
   TARGET_IMPLIB = liblarg.dll.a
   TARGET_PDB = larg.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target manipulate
+
+
+#############################################
+# Order-only phony target for manipulate
+
+build cmake_object_order_depends_target_manipulate: phony || cmake_object_order_depends_target_fmt
+
+build CMakeFiles/manipulate.dir/manipulatingTheDisplayFormatOfData/manipulatingTheDisplayFormatOfData.cpp.obj: CXX_COMPILER__manipulate_unscanned_Debug E$:/C++/C-Tasks/manipulatingTheDisplayFormatOfData/manipulatingTheDisplayFormatOfData.cpp || cmake_object_order_depends_target_manipulate
+  DEP_FILE = CMakeFiles\manipulate.dir\manipulatingTheDisplayFormatOfData\manipulatingTheDisplayFormatOfData.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IE:/C++/C-Tasks/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\manipulate.dir
+  OBJECT_FILE_DIR = CMakeFiles\manipulate.dir\manipulatingTheDisplayFormatOfData
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target manipulate
+
+
+#############################################
+# Link the executable manipulate.exe
+
+build manipulate.exe: CXX_EXECUTABLE_LINKER__manipulate_Debug CMakeFiles/manipulate.dir/manipulatingTheDisplayFormatOfData/manipulatingTheDisplayFormatOfData.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+  FLAGS = -g
+  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\manipulate.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = manipulate.exe
+  TARGET_IMPLIB = libmanipulate.dll.a
+  TARGET_PDB = manipulate.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target newAlgorithms
+
+
+#############################################
+# Order-only phony target for newAlgorithms
+
+build cmake_object_order_depends_target_newAlgorithms: phony || cmake_object_order_depends_target_fmt
+
+build CMakeFiles/newAlgorithms.dir/newAlgorithms/newAlgorithms.cpp.obj: CXX_COMPILER__newAlgorithms_unscanned_Debug E$:/C++/C-Tasks/newAlgorithms/newAlgorithms.cpp || cmake_object_order_depends_target_newAlgorithms
+  DEP_FILE = CMakeFiles\newAlgorithms.dir\newAlgorithms\newAlgorithms.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IE:/C++/C-Tasks/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\newAlgorithms.dir
+  OBJECT_FILE_DIR = CMakeFiles\newAlgorithms.dir\newAlgorithms
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target newAlgorithms
+
+
+#############################################
+# Link the executable newAlgorithms.exe
+
+build newAlgorithms.exe: CXX_EXECUTABLE_LINKER__newAlgorithms_Debug CMakeFiles/newAlgorithms.dir/newAlgorithms/newAlgorithms.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+  FLAGS = -g
+  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\newAlgorithms.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = newAlgorithms.exe
+  TARGET_IMPLIB = libnewAlgorithms.dll.a
+  TARGET_PDB = newAlgorithms.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target reversingWordsByTheirOrder
+
+
+#############################################
+# Order-only phony target for reversingWordsByTheirOrder
+
+build cmake_object_order_depends_target_reversingWordsByTheirOrder: phony || cmake_object_order_depends_target_fmt
+
+build CMakeFiles/reversingWordsByTheirOrder.dir/reversingWordsByTheirOrder/reversingWords.cpp.obj: CXX_COMPILER__reversingWordsByTheirOrder_unscanned_Debug E$:/C++/C-Tasks/reversingWordsByTheirOrder/reversingWords.cpp || cmake_object_order_depends_target_reversingWordsByTheirOrder
+  DEP_FILE = CMakeFiles\reversingWordsByTheirOrder.dir\reversingWordsByTheirOrder\reversingWords.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IE:/C++/C-Tasks/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\reversingWordsByTheirOrder.dir
+  OBJECT_FILE_DIR = CMakeFiles\reversingWordsByTheirOrder.dir\reversingWordsByTheirOrder
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target reversingWordsByTheirOrder
+
+
+#############################################
+# Link the executable reversingWordsByTheirOrder.exe
+
+build reversingWordsByTheirOrder.exe: CXX_EXECUTABLE_LINKER__reversingWordsByTheirOrder_Debug CMakeFiles/reversingWordsByTheirOrder.dir/reversingWordsByTheirOrder/reversingWords.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+  FLAGS = -g
+  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\reversingWordsByTheirOrder.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = reversingWordsByTheirOrder.exe
+  TARGET_IMPLIB = libreversingWordsByTheirOrder.dll.a
+  TARGET_PDB = reversingWordsByTheirOrder.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target splittingRangesIntoChunks
+
+
+#############################################
+# Order-only phony target for splittingRangesIntoChunks
+
+build cmake_object_order_depends_target_splittingRangesIntoChunks: phony || cmake_object_order_depends_target_fmt
+
+build CMakeFiles/splittingRangesIntoChunks.dir/splittingRangesIntoChunks/splittingRangesIntoChunks.cpp.obj: CXX_COMPILER__splittingRangesIntoChunks_unscanned_Debug E$:/C++/C-Tasks/splittingRangesIntoChunks/splittingRangesIntoChunks.cpp || cmake_object_order_depends_target_splittingRangesIntoChunks
+  DEP_FILE = CMakeFiles\splittingRangesIntoChunks.dir\splittingRangesIntoChunks\splittingRangesIntoChunks.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IE:/C++/C-Tasks/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\splittingRangesIntoChunks.dir
+  OBJECT_FILE_DIR = CMakeFiles\splittingRangesIntoChunks.dir\splittingRangesIntoChunks
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target splittingRangesIntoChunks
+
+
+#############################################
+# Link the executable splittingRangesIntoChunks.exe
+
+build splittingRangesIntoChunks.exe: CXX_EXECUTABLE_LINKER__splittingRangesIntoChunks_Debug CMakeFiles/splittingRangesIntoChunks.dir/splittingRangesIntoChunks/splittingRangesIntoChunks.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+  FLAGS = -g
+  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\splittingRangesIntoChunks.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = splittingRangesIntoChunks.exe
+  TARGET_IMPLIB = libsplittingRangesIntoChunks.dll.a
+  TARGET_PDB = splittingRangesIntoChunks.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target standardLibraryEnhancements
+
+
+#############################################
+# Order-only phony target for standardLibraryEnhancements
+
+build cmake_object_order_depends_target_standardLibraryEnhancements: phony || cmake_object_order_depends_target_fmt
+
+build CMakeFiles/standardLibraryEnhancements.dir/standardLibraryEnhancements/standardLibraryEnhancements.cpp.obj: CXX_COMPILER__standardLibraryEnhancements_unscanned_Debug E$:/C++/C-Tasks/standardLibraryEnhancements/standardLibraryEnhancements.cpp || cmake_object_order_depends_target_standardLibraryEnhancements
+  DEP_FILE = CMakeFiles\standardLibraryEnhancements.dir\standardLibraryEnhancements\standardLibraryEnhancements.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IE:/C++/C-Tasks/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\standardLibraryEnhancements.dir
+  OBJECT_FILE_DIR = CMakeFiles\standardLibraryEnhancements.dir\standardLibraryEnhancements
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target standardLibraryEnhancements
+
+
+#############################################
+# Link the executable standardLibraryEnhancements.exe
+
+build standardLibraryEnhancements.exe: CXX_EXECUTABLE_LINKER__standardLibraryEnhancements_Debug CMakeFiles/standardLibraryEnhancements.dir/standardLibraryEnhancements/standardLibraryEnhancements.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+  FLAGS = -g
+  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\standardLibraryEnhancements.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = standardLibraryEnhancements.exe
+  TARGET_IMPLIB = libstandardLibraryEnhancements.dll.a
+  TARGET_PDB = standardLibraryEnhancements.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -293,6 +463,16 @@ build larg: phony larg.exe
 
 build libfmtd.a: phony _deps/fmt-build/libfmtd.a
 
+build manipulate: phony manipulate.exe
+
+build newAlgorithms: phony newAlgorithms.exe
+
+build reversingWordsByTheirOrder: phony reversingWordsByTheirOrder.exe
+
+build splittingRangesIntoChunks: phony splittingRangesIntoChunks.exe
+
+build standardLibraryEnhancements: phony standardLibraryEnhancements.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -301,7 +481,7 @@ build libfmtd.a: phony _deps/fmt-build/libfmtd.a
 #############################################
 # Folder: E:/C++/C-Tasks/cmake-build-debug
 
-build all: phony C_Tasks.exe larg.exe _deps/fmt-build/all
+build all: phony C_Tasks.exe larg.exe manipulate.exe newAlgorithms.exe reversingWordsByTheirOrder.exe splittingRangesIntoChunks.exe standardLibraryEnhancements.exe _deps/fmt-build/all
 
 # =============================================================================
 

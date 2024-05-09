@@ -21,7 +21,12 @@
 					"targetIndexes" : 
 					[
 						0,
-						2
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
 					]
 				},
 				{
@@ -57,7 +62,12 @@
 					"targetIndexes" : 
 					[
 						0,
-						2
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
 					]
 				},
 				{
@@ -94,6 +104,41 @@
 					"id" : "larg::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-larg-Debug-b4543b70742af4c61e37.json",
 					"name" : "larg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "manipulate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-manipulate-Debug-0701616f87f9290e33a8.json",
+					"name" : "manipulate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newAlgorithms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newAlgorithms-Debug-f09c0ac520acb69c974e.json",
+					"name" : "newAlgorithms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reversingWordsByTheirOrder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reversingWordsByTheirOrder-Debug-c60ee3d67349d7ecc09c.json",
+					"name" : "reversingWordsByTheirOrder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "splittingRangesIntoChunks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-splittingRangesIntoChunks-Debug-c0c2ddbcc0164b77b9dd.json",
+					"name" : "splittingRangesIntoChunks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standardLibraryEnhancements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standardLibraryEnhancements-Debug-c8ed1018955fce7f7d9e.json",
+					"name" : "standardLibraryEnhancements",
 					"projectIndex" : 0
 				}
 			]

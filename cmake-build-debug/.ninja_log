@@ -1,14 +1,19 @@
 # ninja log v5
 3	877	7369161019982437	CMakeFiles/C_Tasks.dir/BoxPrint/boxPrint.cpp.obj	aef52dd7bf087c2b
 1467	2162	7369165556251625	largestGroups.exe	772186a9fbaf10af
-39	1936	7369161030570180	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	370c49f46b8a5628
-42	2524	7369161036399972	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	d9f49b9c3e51724d
-2524	2961	7369161040828131	_deps/fmt-build/libfmtd.a	5898c63ac52687e
-1	1126	7369167561930894	build.ninja	bd68d9716d5853ca
-4	1467	7369165549320007	CMakeFiles/largestGroups.dir/largestGroupsOfAnagramsFrom/largestGroupsOfAnagramsFrom.cpp.obj	37f0f6c67543434e
-2961	3108	7369161042274273	C_Tasks.exe	dbb0d6a5ce6d5ed3
-3	2109	7369167663747686	CMakeFiles/larg.dir/largestGroupsOfAnagramsFrom/largestGroupsOfAnagramsFrom.cpp.obj	b9de6cc9f5524e1f
+2383	3283	7369204717230658	newAlgorithms.exe	823fd31c4413a3e0
 39	2268	7369167665358451	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	5eebaf8772c0211a
 41	3055	7369167673183137	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	49e5edcd7ea1b31f
 3055	3583	7369167678525163	_deps/fmt-build/libfmtd.a	5898c63ac52687e
+1	1126	7369209619514873	build.ninja	bd68d9716d5853ca
+2961	3108	7369161042274273	C_Tasks.exe	dbb0d6a5ce6d5ed3
+4	1467	7369165549320007	CMakeFiles/largestGroups.dir/largestGroupsOfAnagramsFrom/largestGroupsOfAnagramsFrom.cpp.obj	37f0f6c67543434e
+3	2109	7369167663747686	CMakeFiles/larg.dir/largestGroupsOfAnagramsFrom/largestGroupsOfAnagramsFrom.cpp.obj	b9de6cc9f5524e1f
 3583	4405	7369167686703447	larg.exe	d9d5e8f4586441fb
+3	1933	7369203697744211	CMakeFiles/manipulate.dir/manipulatingTheDisplayFormatOfData/manipulatingTheDisplayFormatOfData.cpp.obj	c9b4bbc535553e8c
+1933	2857	7369203706969292	manipulate.exe	56792a03c61ac2aa
+3	2383	7369204708241546	CMakeFiles/newAlgorithms.dir/newAlgorithms/newAlgorithms.cpp.obj	96e5997797b411f6
+3	1999	7369205604716431	CMakeFiles/reversingWordsByTheirOrder.dir/reversingWordsByTheirOrder/reversingWords.cpp.obj	89ba37fedb04c73d
+1999	2809	7369205612784626	reversingWordsByTheirOrder.exe	c04b82cea9cce8e9
+4	1950	7369209890856110	CMakeFiles/standardLibraryEnhancements.dir/standardLibraryEnhancements/standardLibraryEnhancements.cpp.obj	8dff3d797bd1e34
+1951	2735	7369209898681298	standardLibraryEnhancements.exe	4ad57f1f09e6ac55

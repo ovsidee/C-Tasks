@@ -1,5 +1,10 @@
 E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/C_Tasks.dir
 E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/larg.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/manipulate.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/newAlgorithms.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/reversingWordsByTheirOrder.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/splittingRangesIntoChunks.dir
+E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/standardLibraryEnhancements.dir
 E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 E:/C++/C-Tasks/cmake-build-debug/CMakeFiles/list_install_components.dir
